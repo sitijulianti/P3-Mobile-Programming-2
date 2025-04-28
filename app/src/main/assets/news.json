@@ -1,0 +1,26 @@
+
+{
+  "DATA_NEWS": [
+    {
+      "title_news":  "Milky Way",
+      "link_news": "<p>Milky Way atau Galaksi Bima Sakti adalah galaksi besar berbentuk spiral tempat Tata Surya kita berada. Milky Way terdiri dari miliaran bintang, gas, debu, dan materi gelap yang membentuk struktur seperti piringan berputar. Saat kita melihat ke langit malam, Milky Way tampak seperti pita cahaya samar membentang karena kita melihat bagian padat dari galaksi itu dari dalam.</p>",
+      "image_link": "file:///android_asset/images/MilkyWay.jpg"
+    },
+    {
+      "title_news": "Meteor Shower",
+      "link_news": "<p>Meteor shower atau hujan meteor adalah peristiwa saat banyak meteor tampak melesat di langit dari satu titik asal dalam waktu yang relatif singkat. Ini terjadi ketika Bumi melewati jalur puing-puing yang ditinggalkan oleh komet, dan serpihan kecil itu terbakar saat memasuki atmosfer, menghasilkan cahaya terang.</p>",
+      "image_link": "file:///android_asset/images/MeteorShower.jpg"
+    },
+    {
+      "title_news": "Bulan Purnama",
+      "link_news": "<p>Bulan purnama adalah fase Bulan ketika seluruh permukaannya yang menghadap ke Bumi tampak sepenuhnya terang oleh sinar Matahari. Ini terjadi saat posisi Bulan berada di sisi berlawanan dari Bumi terhadap Matahari, membentuk garis lurus.</p>",
+      "image_link": "file:///android_asset/images/BulanPurnama.jpg"
+    },
+    {
+      "title_news": "Rasi Bintang Orion",
+      "link_news": "<p>Orion adalah salah satu rasi bintang paling terkenal di langit malam, berbentuk seperti pemburu dalam mitologi. Rasi ini mudah dikenali dari tiga bintang terang yang berjajar membentuk \"sabuk Orion.\"</p>",
+      "image_link": "file:///android_asset/images/orion.png"
+    }
+  ]
+}
+
